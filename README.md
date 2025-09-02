@@ -99,7 +99,7 @@
 <script>
 const scene = document.getElementById("scene");
 const TOTAL = 200;
-const TEXTS = ["Iu mỗi chị", "❤", "Iu chị", "Iuu mỗii chịi"];
+const TEXTS = ["emm thích chị", "❤", "chị làm người yêu emm nha", "Iuu mỗii chịi"];
 
 function rnd(min, max) { return Math.random() * (max - min) + min; }
 function pick(arr) { return arr[Math.floor(Math.random() * arr.length)]; }

@@ -1,3 +1,4 @@
+<!DOCTYPE html>
 <html lang="vi">
 <head>
 <meta charset="utf-8">
@@ -182,3 +183,4 @@ playBtn.addEventListener("click",()=>{
 </script>
 </body>
 </html>
+
